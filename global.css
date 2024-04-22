@@ -1,0 +1,41 @@
+body {
+    background-color: #636363;
+}
+
+noscript {
+    font-family: Arial;
+}
+
+#contentWindow {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 853px;
+    height: 480px;
+    background-repeat: no-repeat;
+    background-size: 853px 480px;
+    background-position: center; 
+    outline-color: #970000;
+    outline-width: 5px;
+    outline-style: solid;
+    background-color: black;
+}
+
+#remote {
+    font-family: Arial;
+    display: block;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;
+    background-color: green;
+    border-radius: 5px;
+}
+
+th > button {
+    width: 50px;
+    height: 50px;
+    font-size: 30px;
+    background-color: darkgreen;
+    border-color: darkgreen;
+}
